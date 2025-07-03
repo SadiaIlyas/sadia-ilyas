@@ -8,7 +8,6 @@
 ## 💡 Skills
 - Python
 - C++
-- Canva (Design)
 - MS Word, Excel, PowerPoint
 - Git & GitHub
 ## 📜 Certifications
