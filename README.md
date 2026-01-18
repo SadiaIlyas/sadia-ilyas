@@ -3,8 +3,7 @@
 # 👩‍💻 Sadia Ilyas
 🎓 A dedicated Computer Science student at Government College University (GCU) Lahore with a deep passion for programming,Web development . I enjoy solving problems, learning new skills, and turning ideas into real-world tech solutions.
 ## 🚀 Projects
-| Project Name | Description | Tech |
-| [Calculator](https://github.com/SadiaIlyas/calculator-python) | A basic Python calculator handling multiple operations  <br>
+Python Calculator  [Calculator](https://github.com/SadiaIlyas/calculator-python)   <br>
 Python tick tack Toe game    https://github.com/SadiaIlyas/Tic-Tac-Toe-game               <br>
 students Result management system        https://github.com/SadiaIlyas/Student-Result-Management-System <br>
 CARRER Ladder     https://github.com/SadiaIlyas/Career-Ladder-<br>
@@ -15,13 +14,15 @@ Quiz Game                 https://github.com/SadiaIlyas/Quiz-game<br>
 
 ## 💡 Skills
 - Python
-- C++
-- Html 
+- C++ <br>
+- OOP
+- Html <br>
+-CSS
 - MS Word, Excel, PowerPoint
 - Git & GitHub
 ## 📜 Certifications
 - ✅ Python Bootcamp (Udemy)
-- 🎯 Enrolled: HTML5 and CSS(Udemy)
+- 🎯  HTML5 and CSS(Udemy)
 ## 🎯 Goals
 - Build a successful freelancing career  
 - Master web development  
